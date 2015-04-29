@@ -1,2 +1,2 @@
 # lupecleaninglb.github.io
-An awesome website!
+This site is [live](http://lupecleaningservice.com)
