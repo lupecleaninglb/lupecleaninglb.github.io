@@ -1,2 +1,2 @@
 # lupecleaninglb.github.io
-This site is [live](http://lupecleaningservice.com)
+This site is [live](http://lupecleaningservice.com).
